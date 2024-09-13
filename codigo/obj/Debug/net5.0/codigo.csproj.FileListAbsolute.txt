@@ -1,0 +1,15 @@
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\bin\Debug\net5.0\codigo.exe
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\bin\Debug\net5.0\codigo.deps.json
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\bin\Debug\net5.0\codigo.runtimeconfig.json
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\bin\Debug\net5.0\codigo.runtimeconfig.dev.json
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\bin\Debug\net5.0\codigo.dll
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\bin\Debug\net5.0\codigo.pdb
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.AssemblyInfoInputs.cache
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.AssemblyInfo.cs
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.csproj.CoreCompileInputs.cache
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.dll
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\refint\codigo.dll
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.pdb
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\codigo.genruntimeconfig.cache
+C:\Users\teteu\Documentos\DIO\cursos\C#-.NET\Projetos\TDD\codigo\obj\Debug\net5.0\ref\codigo.dll
